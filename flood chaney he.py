@@ -41,3 +41,5 @@ for row in modified_board:
 
 # review already from Xinyi Zhou
 # code all good
+# Sending “pull request", establishing a branch, edit code collaboratively are all good to learn, which is quite useful for coding beginner.
+# I think this way of team work will potentially drive our future project.
